@@ -58,8 +58,6 @@ Place runtime screenshots in `Assets/` and reference them like this:
 *Figure — Node.js output example*
 ```
 
-(Use a high-resolution PNG for crisp display on GitHub and in presentations.)
-
 ---
 
 ## Quick start
